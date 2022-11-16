@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NoRightClickOnInputsOrTextAreaSample", "NoRightClickOnInputsOrTextAreaSample.csproj", "{6115C3EE-0A90-4363-8F9E-200DC61F671A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6115C3EE-0A90-4363-8F9E-200DC61F671A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6115C3EE-0A90-4363-8F9E-200DC61F671A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6115C3EE-0A90-4363-8F9E-200DC61F671A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6115C3EE-0A90-4363-8F9E-200DC61F671A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85E04EAE-7D72-42D7-8694-D543572F24A4}
+	EndGlobalSection
+EndGlobal
