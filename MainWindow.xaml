@@ -8,7 +8,7 @@
         mc:Ignorable="d"
         Title="NoRightClickOnInputsOrTextAreaSample" Height="750" WindowStartupLocation="CenterScreen" Width="1200">
     <Grid>
-        <blazor:BlazorWebView HostPage="wwwroot\index.html" Services="{StaticResource services}">
+        <blazor:BlazorWebView HostPage="wwwroot\index.html" Services="{StaticResource services}" x:Name="bwv">
             <blazor:BlazorWebView.RootComponents>
                 <blazor:RootComponent Selector="#app" ComponentType="{x:Type local:StartBlazor}" />
             </blazor:BlazorWebView.RootComponents>
